@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 import { Container, Row } from "react-bootstrap";
 import Button from "react-bootstrap/Button";
 import Particle from "../Particle";
-import pdf from "../../Assets/../Assets/Mansi_Resume.pdf";
+import pdf from "../../Assets/../Assets/Mansi_Resume_final.pdf";
 //import pdf from "../../Assets/../Assets/Mansi_Resume.pdf";
 //import pdfjs from "react-pdf";
 //import Page from "react-pdf";
