@@ -28,7 +28,9 @@ function Projects() {
               }
               isBlog={false}
               title="Netflix Clone"
-              description="My personal blog app build with MERN stack technology.Have features which allows user to post blogs create account,edit blogs.Has the all the functionalities which full stack app shoud have."
+              description="A look-alike of Netflix built using HTML, CSS and mainly ReactJs. It’s a responsive application and can be worked with
+              comfortably on any platform.Bifurcates trailers on the basis of genres like top trending,
+              Netflix Originals etc. Movie data was pulled from TMDB."
               ghLink="https://github.com/mansigrover09/Netflix-clone"
               demoLink="https://netflix-clone-b7c1d.web.app/"
             />
@@ -40,8 +42,8 @@ function Projects() {
               }
               isBlog={false}
               title="Get Interesting Fact"
-              description="
-This is an time tracking website clone . You can put your daily tasks to do and also you can track your tasks by the website. This page as the name suggests has the homepage functionality. This is the landing page, You will find website overview from this page."
+              description="A website which tells you facts on every number you type built
+              using HTML, CSS & JS. It tells you fact on any number from 0 to infinite. Made using Number API."
               ghLink="https://github.com/mansigrover09/Get-interesting-fact"
               demoLink="https://get-interesting-fact.netlify.app/"
             />
@@ -50,13 +52,13 @@ This is an time tracking website clone . You can put your daily tasks to do and 
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={
-                "https://user-images.githubusercontent.com/72031522/192807635-d833cb79-41d8-419f-9898-6ac98eec5b94.JPG"
+                "https://user-images.githubusercontent.com/55998197/196343371-d9675092-96e6-431f-b482-38fb29fb4f50.png"
               }
               isBlog={false}
-              title="LYST Colne"
-              description="This is LYST website clone.LYST is a fashion technology company, and premium shopping app.This website is build with reactjs,Chakra-UI and mongodb.have features which allow user to create account,login,search products,buy products,payment getway etc..."
-              ghLink="https://github.com/harshjoundal/LYST"
-              demoLink="https://lystlyst.netlify.app/"
+              title="Multivendor Website"
+              description="AI Tech is a multivendor Ecommerce Website. A Multi-vendor ecommerce website assist to sell products directly to customers and can assist to earn profit by inviting different vendors to sell their products on website. It has been seen that people mostly search for a website where they can get different products under one roof."
+              ghLink="https://github.com/mansigrover09/aitech-multivendor-react"
+              demoLink="https://aitech-multivendor-react.vercel.app/"
             />
           </Col>
 
